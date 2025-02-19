@@ -9,7 +9,7 @@ I'm currently exploring how cloud services can enhance automation, scalability, 
 ### Say Hello 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namratabhaumik/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namratabhaumik16@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/namrata2599) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/missing.nemo/)
 
-### Would you like to read more about my projects and journey in tech so far? Then click here 👉 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://namrata-bhaumik.medium.com/)
+### Would you like to read more about my projects and journey in tech so far? Click here 👉 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://namrata-bhaumik.medium.com/)
 
 ### Certifications
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8cceb83b-b7e4-42f8-8a71-20bf2ad712b2/linked_in_profile)
