@@ -11,6 +11,8 @@ I'm currently exploring AI-augmented development workflows, including LLM-powere
 
 ### Would you like to read more about my projects and journey in tech so far? Click here 👉 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://namrata-bhaumik.medium.com/)
 
+##### Not a frontend person but you can find me working on creating this [Portfolio](https://namratabhaumik.github.io/) in [here](https://github.com/namratabhaumik/namratabhaumik.github.io)
+
 ### Certifications
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8cceb83b-b7e4-42f8-8a71-20bf2ad712b2/linked_in_profile)
 - [Microsoft certified Azure Fundamentals](https://www.credly.com/badges/1aab900c-d79f-4b18-93ab-7d1768217c7b/public_url)
